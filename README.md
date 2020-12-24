@@ -11,7 +11,7 @@ LINUX/UNIX/MAC
 
 All in-one command
 
-git clone https://github.com/VeroNWDT && cd xerxes && gcc -o xerxes xerxes.c
+git clone https://github.com/VeroNWDT/xerxes && cd xerxes && gcc -o xerxes xerxes.c
 
 BE ANONYMOUS
 USE PROXY VPN OPENVPN TOR PROXYCHAINS
