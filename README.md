@@ -9,5 +9,9 @@ LINUX/UNIX/MAC
 
 ./xerxes IP PORT
 
+All in-one command
+
+git clone https://github.com/VeroNWDT && cd xerxes && gcc -o xerxes xerxes.c
+
 BE ANONYMOUS
 USE PROXY VPN OPENVPN TOR PROXYCHAINS
